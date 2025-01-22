@@ -7,7 +7,7 @@
 
 
 int main(int, char**){
-    pthread_t ptid; 
+    pthread_t ptid1; 
     
     std::cout << "Hello, from kafka_tool!\n";
 }
